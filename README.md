@@ -35,9 +35,9 @@ pip install -r requirements.txt
 ## Usage
 Run the script and open the provided link in your web browser.
 
-python3 RSA_Encrypt_Decrypt.py
+``` python3 RSA_Encrypt_Decrypt.py ```
 or
-python RSA_Encrypt_Decrypt.py
+``` python RSA_Encrypt_Decrypt.py ```
 
 
 ## Dependencies
